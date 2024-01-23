@@ -1,0 +1,15 @@
+page1.js
+-Pendahuluan js
+-apa itu pemrograman
+-Bahasa pemrograman
+-compiler vs interpreter vs hybrid
+-environment development js
+-sejarah js
+
+page2.js
+-value dan tipe data pada js
+-operator pada js
+
+
+
+page3.js
