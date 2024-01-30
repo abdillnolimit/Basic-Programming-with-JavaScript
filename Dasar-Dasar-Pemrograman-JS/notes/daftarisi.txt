@@ -13,3 +13,21 @@ page2.js
 
 
 page3.js
+-variabel pada js
+-function alert,prompt,confirm
+-pengondisian(if else)
+
+page4.js
+-Pengulangan/Looping
+-Pengondisian ( pakai if else; else if; else;  switch case)
+-study case kombinasi looping dan conditional
+
+
+page5.js
+-function declaration dan function expression
+
+page6.js
+-array serta penggunaan methodnya
+
+page7.js
+-object pada JS
