@@ -27,7 +27,11 @@ page5.js
 -function declaration dan function expression
 
 page6.js
--array serta penggunaan methodnya
+-array
+-manipulasi array
+-pengelolaan array
 
 page7.js
--object pada JS
+-object
+-macam-macam cara membuat object
+-array serta penggunaan methodnya
